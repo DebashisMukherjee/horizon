@@ -16,4 +16,6 @@ The files, horizonpoint.ipynb, jarvis.ipynb, quickhull.ipynb, could be run, with
 A relative comparison in the time taken by the "horizon" scan, with reference to equivalent of the opensource of the "jarvis", and "quickhull" implementation could be evaluated.
 
 The implementation, used "Anoconda" with Python 3.8 installation.
- 
+
+The source code file, horizonpoint.ipynb, jarvis.ipynb, quickhull.ipynb, be executed from "Jupyter Notebook".
+   

@@ -16,5 +16,15 @@ The files, horizonpoint.ipynb, jarvis.ipynb, quickhull.ipynb, could be run, with
 
 A relative comparison in the time taken by the "horizon" scan, with reference to equivalent of the opensource of the "jarvis", and "quickhull" implementation could be evaluated.
 
-The implementation, used "Anoconda" with Python 3.8 installation.
+The implementation, used "Anaconda" with Python 3.8 installation. The .ipynb files could be run from Jupyter Notebook.
+
+Steps for validation:
+1) Install latest version of Anaconda (https://www.anaconda.com/products/individual), if not installed.
+2) Start Jupyter Notebook.
+3) Download the zip (horizon-master.zip) into a folder
+4) Extract the zip.
+5) Copy the files (.csv and .ipynb files) into a folder browsable from Jupyter Notebook 
+6) Open the horizonpoint.ipynb file in Jupyter Notebook, and click Kernel->Restart & Run All.
+7) To Run for another dataset, Goto line "In [6]: df2 = pd.read_csv('<File>.csv')", and change '<File>' with the name of the file.
+8) To compare with Jarvis, open the file jarvis.ipynb in Jupyter Notebook, and click Kernel->Restart & Run All. To Run for another dataset Goto "In [4]" and change '<File>' with the name of the file .
  

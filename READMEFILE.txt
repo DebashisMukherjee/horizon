@@ -5,7 +5,7 @@ includes code for proof-of-concept validation for an work submitted to a journal
 
 horizonpoint.ipynb: It is the main source file for the reported work title "Reducing Two-Dimensional Data for Speeding up Convex Hull Computation", that is to be submitted for review.
 
-01.BugattiAtlantic.csv, 02.Formica.csv, 03.Flight.csv, 04.T-800-Head.csv, 05.Al.csv, dgen1.csv, dgen2.csv: These are the individual dataset each of which are used for validation of the algorithm reported in the submission.
+01.BugattiAtlantic.csv, 02.Formica.csv, 03.Flight.csv, 04.T-800-Head.csv, 05.Al.csv, blob.csv, cluster.csv, sin1.csv, sin2.csv: These are the individual dataset each of which are used for validation of the algorithm reported in the submission.
 
 jarvis.ipynb: An opensource reference implementation of the "Jarvis GiftWrap" algorithm, found in the github repository "https://github.com/RodolfoFerro/ConvexHull"
 

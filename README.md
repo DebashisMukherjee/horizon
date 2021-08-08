@@ -13,7 +13,7 @@ quickhull.ipynb: An opensource reference implementation of the "QuickHull" algor
 
 contourpoint.ipynb: It is a source file for computing the convex hull using "contour approximation" within the reported work title "Reducing Two-Dimensional Data for Speeding up Convex Hull Computation".
   
-The files, horizonpoint.ipynb, jarvis.ipynb, quickhull.ipynb, contourpoint.ipynb, could be run, with the given dataset, by giving link to the path to the input dataset files (i.e.,01.BugattiAtlantic.csv, 02.Formica.csv, 03.Flight.csv, 04.T-800-Head.csv, 05.Al.csv, dgen1.csv, dgen2.csv), hardcode in a single line in the code.
+The files, horizonpoint.ipynb, jarvis.ipynb, quickhull.ipynb, contourpoint.ipynb, could be run, with the given dataset, by giving link to the path to the input dataset files (i.e.,01.BugattiAtlantic.csv, 02.Formica.csv, 03.Flight.csv, 04.T-800-Head.csv, 05.Al.csv, blob.csv, cluster.csv, sin1.csv, sin2.csv), hardcode in a single line in the code.
 
 A relative comparison in the time taken by the "horizon" scan, with reference to equivalent of the opensource of the "jarvis", and "quickhull" implementation could be evaluated.
 
